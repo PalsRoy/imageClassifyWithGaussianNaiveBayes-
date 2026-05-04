@@ -1,0 +1,24 @@
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyos
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and outputs
+weights/
+*.pth
+*.pt
+
+# Logs
+logs/
+*.log
+
+# Mac
+.DS_Store
+
+# Conda env
+*.egg-info/

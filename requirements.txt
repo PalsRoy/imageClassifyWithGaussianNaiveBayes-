@@ -1,0 +1,7 @@
+# Allowed by the EEEM005 brief
+numpy
+opencv-python
+scipy
+ 
+# Only needed for the dev notebook, not for running the submission
+jupyter
