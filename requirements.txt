@@ -5,3 +5,8 @@ scipy
  
 # Only needed for the dev notebook, not for running the submission
 jupyter
+
+#Training utilities
+matplotlib>=3.7
+
+scipy>=1.11

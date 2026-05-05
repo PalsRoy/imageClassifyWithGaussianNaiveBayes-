@@ -4,9 +4,8 @@ Pixel-wise semantic segmentation of aerial imagery into five classes
 (Building, Road, Tree, Vehicle, Grass) using a Gaussian Naïve Bayes
 classifier built from scratch with NumPy.
 
-This is coursework for EEEM005. The implementation deliberately avoids
-high-level machine-learning libraries (scikit-learn, PyTorch, TensorFlow)
-in line with the assignment brief.
+The implementation deliberately avoids high-level machine-learning 
+libraries (scikit-learn, PyTorch, TensorFlow) in line with the assignment brief.
 
 ---
 
