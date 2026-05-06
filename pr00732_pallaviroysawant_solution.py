@@ -281,6 +281,6 @@ class EEEM005_Coursework_Solution:
 # unchanged. Data files are assumed to be in the same working directory.
 # -----------------------------------------------------------------------------
 Model = EEEM005_Coursework_Solution()
-Model.model_training("./data/training_image.jpg", "./data/training_mask.png")
-Model.model_testing("./data/testing_image1.jpg", "./data/testing_mask1.png")
-Model.model_testing("./data/testing_image2.jpg", "./data/testing_mask2.png")
+Model.model_training("training_image.jpg", "training_mask.png")
+Model.model_testing("testing_image1.jpg", "testing_mask1.png")
+Model.model_testing("testing_image2.jpg", "testing_mask2.png")
